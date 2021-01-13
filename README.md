@@ -1,5 +1,5 @@
 # PubsFlywayMigration
-This project has been designed for SQL Server people who would like to try out using Flyway. I decided that it would be useful to start simple just because there are so many options, flags and actions that are possible with this database build system.
+This project has been designed just to make it a bit easier for SQL Server people who would like to try out using Flyway. I decided that it would be useful to start simple just because there are so many options, flags and actions that are possible with this database build system.
 
 Basically, this just has four files designed to build the initial version of Pubs, slightly modified to allow it to run easily on recent versions of SQL Server. Then there is a very simple modification to allow it to use nvarchars etc, and finally a dataset to replace the original data with five thousand publications so as to provide slightly more realistic data.
 
